@@ -148,5 +148,5 @@ Content-Type: application/json
 ## 📬 Contact
 
 **Raj Aryan**
-📧 [theraaajj@example.com](mailto:theraaajj@example.com)
+📧 [theraaajj@gmail.com](mailto:theraaajj@gmail.com)
 
