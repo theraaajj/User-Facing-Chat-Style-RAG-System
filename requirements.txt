@@ -1,0 +1,9 @@
+aiohttp
+aiomysql
+python-dotenv
+mysql-connector-python
+aiofiles
+openai
+fastapi
+uvicorn
+pydantic
