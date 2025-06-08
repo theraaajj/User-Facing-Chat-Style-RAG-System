@@ -1,4 +1,4 @@
-# 🕸️ SpiderWeb RAG Agent
+# 🕸️ Chat-Style RAG Agent
 
 A fully local Retrieval-Augmented Generation (RAG) system for querying U.S. Federal Register documents using a local LLM (via Ollama), automated data ingestion pipeline, and FastAPI interface.
 
