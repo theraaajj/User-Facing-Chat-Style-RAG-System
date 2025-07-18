@@ -48,7 +48,7 @@ Enable users to ask natural language questions about U.S. Federal Register conte
 ### 1. Clone Repo & Create Virtual Environment
 
 ```bash
-git clone https://github.com/yourusername/spiderweb-rag-agent.git
+git clone https://github.com/theraaajj/User-Facing-Chat-Style-RAG-System.git
 cd spiderweb-rag-agent
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
