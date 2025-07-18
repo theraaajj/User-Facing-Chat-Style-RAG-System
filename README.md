@@ -1,6 +1,6 @@
-# 🕸️ Chat-Style RAG Agent
+# 🧠 Federal Register RAG System
 
-A fully local Retrieval-Augmented Generation (RAG) system for querying U.S. Federal Register documents using a local LLM (via Ollama), automated data ingestion pipeline, and FastAPI interface.
+A complete end-to-end Retrieval-Augmented Generation (RAG) system that fetches daily documents from the U.S. Federal Register, stores them in a MySQL database, and allows users to query that data using a local LLM through a FastAPI interface.
 
 ---
 
